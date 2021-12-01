@@ -1,0 +1,15 @@
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.exe
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.deps.json
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.json
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.runtimeconfig.dev.json
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.dll
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\AdventOfCode.pdb
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.AssemblyReference.cache
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfoInputs.cache
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.AssemblyInfo.cs
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.csproj.CoreCompileInputs.cache
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.dll
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.pdb
+D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.genruntimeconfig.cache
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\DayOneInput.txt
