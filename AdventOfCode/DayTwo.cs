@@ -6,6 +6,10 @@ namespace AdventOfCode
 {
     class DayTwo
     {
+        const string UP = "up";
+        const string DOWN = "down";
+        const string FORWARD = "forward";
+
         const string input = "Resources/DayTwoInput.txt";
 
         public static void PuzzleOne()
@@ -31,16 +35,44 @@ namespace AdventOfCode
                 }
             }
 
-            int vertical = valuesDict["down"] - valuesDict["up"]; ;
-            int horizontal = valuesDict["forward"];
-
+            int vertical = valuesDict[DOWN] - valuesDict[UP]; ;
+            int horizontal = valuesDict[FORWARD];
 
             Console.WriteLine("Multiplied positon is " + (vertical * horizontal).ToString() + ".");
         }
 
         public static void PuzzleTwo()
         {
+            var content = File.ReadAllLines(input);
+            int aim = 0;
+            int horizontal = 0;
+            int vertical = 0;
 
+            foreach (var line in content)
+            {
+                int num;
+                var entry = line.Split(" ");
+                if (Int32.TryParse(entry[1], out num))
+                {
+                    switch (entry[0])
+                    {
+                        case UP:
+                            aim -= num;
+                            break;
+
+                        case DOWN:
+                            aim += num;
+                            break;
+
+                        case FORWARD:
+                            horizontal += num;
+                            vertical += (aim * num);
+                            break;
+                    }
+                }
+            }
+
+            Console.WriteLine("Multiplied positon is " + (vertical * horizontal).ToString() + ".");
         }
     }
 }
