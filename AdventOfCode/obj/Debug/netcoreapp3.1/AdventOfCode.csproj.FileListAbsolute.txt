@@ -13,3 +13,4 @@ D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.dll
 D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.pdb
 D:\Code\AdventOfCode\AdventOfCode\obj\Debug\netcoreapp3.1\AdventOfCode.genruntimeconfig.cache
 D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\DayOneInput.txt
+D:\Code\AdventOfCode\AdventOfCode\bin\Debug\netcoreapp3.1\Resources\DayTwoInput.txt

@@ -23,6 +23,10 @@ namespace AdventOfCode
                         DayOne.PuzzleTwo();
                         break;
 
+                    case "2-1":
+                        DayTwo.PuzzleOne();
+                        break;
+
                     case "exit":
                         running = false;
                         break;

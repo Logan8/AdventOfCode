@@ -17,7 +17,7 @@ namespace AdventOfCode
             foreach (var line in content)
             {
                 int result;
-                if(Int32.TryParse(line, out result))
+                if (Int32.TryParse(line, out result))
                 {
                     valuesArray.Add(result);
                 }
@@ -39,7 +39,7 @@ namespace AdventOfCode
 
             foreach (var line in content)
             {
-                if(first == 0 && second == 0 && third == 0)
+                if (first == 0 && second == 0 && third == 0)
                 {
                     Int32.TryParse(line, out first);
                 }
